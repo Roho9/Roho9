@@ -33,3 +33,5 @@ Most recently I interned as a software engineer at Micron Technology. These days
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanmahesh/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rohanmahesh909@gmail.com)
+
+<!-- profile -->
