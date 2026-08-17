@@ -1,6 +1,6 @@
 # Hi, I'm Rohan Mahesh 👋
 
-Incoming CS Master's student at the University of Chicago (MSCS), with a BS in Quantitative Computational Economics from Indiana University. I like building systems from the ground up, whether that means a distributed consensus engine or an AI-driven game world.
+I am an incoming CS Master's student at the University of Chicago (MSCS). I like building systems from the ground up, whether that means a distributed consensus engine or an AI-driven game world.
 
 Most recently I interned as a software engineer at Micron Technology. These days I'm focused on distributed systems, backend engineering, and applied AI, and I'm always up for a good technical conversation.
 
